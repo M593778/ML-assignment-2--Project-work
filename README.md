@@ -51,6 +51,10 @@ streamlit run app.py
 
 The website will then open locally in the browser.
 
+## Website
+
+Link: https://ml-assignment-2--project-work-7zgkf6x9hdxyf99pj2mmtg.streamlit.app/
+
 ## Author
 
 Martin Olsnes Helland
