@@ -1,0 +1,14 @@
+column,missing_values,missing_percent
+clean_title,21419,11.360875814844086
+fuel_type,5083,2.696079731399808
+accident,2452,1.3005680703112983
+brand,0,0.0
+id,0,0.0
+milage,0,0.0
+model_year,0,0.0
+model,0,0.0
+engine,0,0.0
+ext_col,0,0.0
+transmission,0,0.0
+int_col,0,0.0
+price,0,0.0

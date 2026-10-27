@@ -1,0 +1,8 @@
+{
+    "best_model": "Gradient Boosting",
+    "RMSE": 68053.19975708141,
+    "MAE": 19575.106961104015,
+    "R2": 0.16721365449726078,
+    "training_rows": 150826,
+    "test_rows": 37707
+}
